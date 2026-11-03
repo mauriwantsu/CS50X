@@ -1,0 +1,11 @@
+# Compiled files
+*.out
+*.o
+*.class
+*.pyc
+__pycache__/
+
+# Environment variables and keys
+.env
+*.pem
+credentials.json
